@@ -102,7 +102,7 @@ For any inquiries or feedback, please reach out to [masoumi.masoud@gmail.com](ma
 
 &#9633; Add the company names to extracted text to make sure there is always an association between the text and the company.
 
-&#9633; Add extra filtering to include only very relavant news in the analysis.
+&#9633; Add extra filtering to include only really relevant news in the analysis.
 
 &#9633; Optimize the prompts.
 
