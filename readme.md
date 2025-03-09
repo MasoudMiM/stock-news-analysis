@@ -17,13 +17,13 @@ The Stock Analysis and Recommendation System is an application designed to pull 
 
 ## Tools/Libraries Used
 
-- **Programming Language and Data handling**: Python \& Pandas data manipulation and analysis
+- **Programming Language and Data handling**: Python \& Pandas for data manipulation and analysis
 - **Database**: MongoDB for storing stock data, web scraping results, and recommendations.
 - **APIs**:
   - **Google Gmail API**: For sending email notifications.
   - **OpenBB API**: For fetching financial reports and stock data.
   - **DuckDuckGo**: For news aggregation related to stocks.
-- **Machine Learning**: Sentence Transformers for embedding and similarity search using ChromaDB.
+- **Machine Learning**: Sentence Transformers for embedding and similarity search with ChromaDB, and employing Large Language Models for analyzing reports and web text data through Ollama.
 - **Logging**: Python's built-in logging library for tracking application behavior.
 
 ## Database Structure
